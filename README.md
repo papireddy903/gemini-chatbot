@@ -48,14 +48,6 @@ This is a simple chatbot application using Gradio and Google's GenerativeAI API.
 
 - Configure the GenerativeAI API key in your application as mentioned in the installation steps.
 
-## Contributing
 
-We welcome contributions from the community. If you want to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit them (`git commit -am 'Add your feature'`).
-4. Push the changes to your branch (`git push origin feature/your-feature`).
-5. Create a pull request.
 
 
