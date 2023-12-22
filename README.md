@@ -3,6 +3,8 @@
 ## Overview
 
 This is a simple chatbot application using Gradio and Google's GenerativeAI API. The chatbot leverages the Gemini Pro model from GenerativeAI to provide interactive conversations.
+<img width="919" alt="image" src="https://github.com/papireddy903/gemini-chatbot/assets/97383201/34c24471-d5ec-4d42-bb41-5a4dcede3479">
+
 
 ## Features
 
